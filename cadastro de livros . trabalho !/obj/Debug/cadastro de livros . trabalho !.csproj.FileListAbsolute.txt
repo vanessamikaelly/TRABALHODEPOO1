@@ -21,3 +21,14 @@ C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TRABALHOPOO11-main\cadastro de livro
 C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TRABALHOPOO11-main\cadastro de livros . trabalho !\bin\Debug\cadastro_de_livros.trabalho__.exe.config
 C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TRABALHOPOO11-main\cadastro de livros . trabalho !\bin\Debug\cadastro_de_livros.trabalho__.exe
 C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TRABALHOPOO11-main\cadastro de livros . trabalho !\bin\Debug\cadastro_de_livros.trabalho__.pdb
+C:\Users\vanes\OneDrive\TRABALHOPOO11 DEU CERTOO main\cadastro de livros . trabalho !\bin\Debug\cadastro_de_livros.trabalho__.exe.config
+C:\Users\vanes\OneDrive\TRABALHOPOO11 DEU CERTOO main\cadastro de livros . trabalho !\bin\Debug\cadastro_de_livros.trabalho__.exe
+C:\Users\vanes\OneDrive\TRABALHOPOO11 DEU CERTOO main\cadastro de livros . trabalho !\bin\Debug\cadastro_de_livros.trabalho__.pdb
+C:\Users\vanes\OneDrive\TRABALHOPOO11 DEU CERTOO main\cadastro de livros . trabalho !\obj\Debug\cadastro de livros . trabalho !.csproj.AssemblyReference.cache
+C:\Users\vanes\OneDrive\TRABALHOPOO11 DEU CERTOO main\cadastro de livros . trabalho !\obj\Debug\cadastro de livros . trabalho !.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanes\OneDrive\TRABALHOPOO11 DEU CERTOO main\cadastro de livros . trabalho !\obj\Debug\Trabalho_Cadastro_de_Livro.Form1.resources
+C:\Users\vanes\OneDrive\TRABALHOPOO11 DEU CERTOO main\cadastro de livros . trabalho !\obj\Debug\cadastro_de_livros.trabalho__.Properties.Resources.resources
+C:\Users\vanes\OneDrive\TRABALHOPOO11 DEU CERTOO main\cadastro de livros . trabalho !\obj\Debug\cadastro de livros . trabalho !.csproj.GenerateResource.cache
+C:\Users\vanes\OneDrive\TRABALHOPOO11 DEU CERTOO main\cadastro de livros . trabalho !\obj\Debug\cadastro de livros . trabalho !.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\TRABALHOPOO11 DEU CERTOO main\cadastro de livros . trabalho !\obj\Debug\cadastro_de_livros.trabalho__.exe
+C:\Users\vanes\OneDrive\TRABALHOPOO11 DEU CERTOO main\cadastro de livros . trabalho !\obj\Debug\cadastro_de_livros.trabalho__.pdb
